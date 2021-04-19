@@ -2,7 +2,7 @@
 # Victor Maitan - Software Engineer
 
 
-### 📫 About me
+### 🙋‍♂️ About me
 
 Olá, sou o Victor Maitan, sou Dev Front-End. Bacharel em Engenharia de Software, pela UNIGRAN em Dourados/MS - Brasil, estou disponível para freelas!
 
