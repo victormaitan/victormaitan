@@ -50,6 +50,8 @@ Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGR
   <img src="https://img.shields.io/badge/json-9a9a9a?style=for-the-badge&logo=json&logoColor=2f2f2f"/>
   <!-- Git -->
   <img src="https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git&logoColor=e34f26"/>
+  <!-- Quasar -->
+  <img src="https://img.shields.io/badge/Quasar Framework-ffffff?style=for-the-badge&logo=quasar&logoColor=1976d2"/>
   </p> 
 
 ###  👨‍💻  I have knowledge
