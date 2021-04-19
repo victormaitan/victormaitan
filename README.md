@@ -8,7 +8,7 @@ Olá, sou o Victor Maitan, sou Dev Front-End. Bacharel em Engenharia de Software
 
 Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGRAN in Dourados/MS - Brazil, I am available for freelance!
 
-### 🖥️ 👉🏻 [MY SITE](https://www.victormaitan.vercel.com) 👈🏻
+### 🖥️ 👉🏻 [MY SITE](https://www.victormaitan.vercel.app) 👈🏻
 
 <p align="left">
 <!-- Status perfil -->
