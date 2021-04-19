@@ -8,7 +8,7 @@ Olá, sou o Victor Maitan, sou Dev Front-End. Bacharel em Engenharia de Software
 
 Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGRAN in Dourados/MS - Brazil, I am available for freelance!
 
-### 🖥️ 👉🏻 [MY SITE](https://www.victormaitan.vercel.app) 👈🏻
+### 🖥️ 👉🏻 [MEU SITE/MY SITE](https://www.victormaitan.vercel.app) 👈🏻
 
 <p align="left">
 <!-- Status perfil -->
@@ -17,7 +17,7 @@ Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGR
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormaitan&theme=blue-green"/>
 </p>
 
-### 👨‍🏭 My skills
+### 👨‍🏭 Minhas Habilidades/My skills
 
 <p align="center">
    <!-- HTML5 -->
@@ -56,7 +56,7 @@ Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGR
   <img src="https://img.shields.io/badge/Arduino-ffffff?style=for-the-badge&logo=arduino&logoColor=008184"/>
   </p> 
 
-###  👨‍💻  I have knowledge
+###  👨‍💻  Tenho conhecimento/I have knowledge
 
 <p align="center">
   <!-- React -->
@@ -118,7 +118,7 @@ Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGR
   
   </p> 
 
-### 📫 How to contact me
+### 📫 Como entrar em contato comigo/How to contact me
 <p align="center">
 <!-- Instagram -->
   <a href="https://www.instagram.com/victor.maitan/" alt="Instagram">
