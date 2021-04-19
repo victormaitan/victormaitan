@@ -4,7 +4,7 @@
 
 ### 📫 About me
 
-🇧🇷 Olá, sou o Victor Maitan, sou Dev Front-End. Bacharel em Engenharia de Software, pela UNIGRAN em Dourados/MS - Brasil, estou disponível para freelas!
+:flag_br: Olá, sou o Victor Maitan, sou Dev Front-End. Bacharel em Engenharia de Software, pela UNIGRAN em Dourados/MS - Brasil, estou disponível para freelas!
 
 🇺🇸 Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGRAN in Dourados/MS - Brazil, I am available for freelance!
 
