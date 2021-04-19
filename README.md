@@ -17,7 +17,7 @@ Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGR
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormaitan&theme=blue-green"/>
 </p>
 
-### 🦄 My skills
+### 👨‍🏭 My skills
 
 <p align="center">
    <!-- HTML5 -->
