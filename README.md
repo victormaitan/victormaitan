@@ -48,6 +48,8 @@ Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGR
   <img src="https://img.shields.io/badge/Webpack-2b3a42?style=for-the-badge&logo=webpack&logoColor=8acef2"/>
   <!-- JSON -->
   <img src="https://img.shields.io/badge/json-9a9a9a?style=for-the-badge&logo=json&logoColor=2f2f2f"/>
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git&logoColor=e34f26"/>
   </p> 
 
 ###  👨‍💻  I have knowledge
