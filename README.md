@@ -1,7 +1,7 @@
 
 # Victor Maitan - Software Engineer
 
-https://visitor-badge.laobi.icu/badge?page_id=victormaitan
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=victormaitan)
 
 ### 🙋‍♂️ About me
 
