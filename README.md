@@ -79,7 +79,7 @@ Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGR
   <!-- Kotlin -->
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <!-- Android -->
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Android-2b2b2b?style=for-the-badge&logo=Android&logoColor=25CA0F"/>
   <!-- C# -->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <!-- Python-->
