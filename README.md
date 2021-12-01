@@ -148,7 +148,7 @@ Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGR
   <!-- Youtube -->
   <a href="https://www.youtube.com/channel/UClOrDr09cPJEhml_F-85UDA">
   <img src="https://img.shields.io/badge/Help_Dev!-Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UClOrDr09cPJEhml_F-85UDA"/></a>
-  </p> 
+ </p> 
 
 <img src = "https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" min-width = "400px" max-width = "400px" width = "400px" alt = "Computador"><img src = "https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" min-width = "400px" max-width = "400px" width = "400px" alt = "Computador">
 
