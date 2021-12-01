@@ -125,7 +125,9 @@ Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGR
 
 ### 📫 Como entrar em contato comigo/How to contact me
 <p align="center">
-<!-- Instagram -->
+	<!--Meu Site-->
+	<a href="https://victormaitan.vercel.app"><img src="https://img.shields.io/badge/-Meu site-					242424?style=for-the-badge&logo=Vercel&logoColor=04bbcc" /></a>
+  <!-- Instagram -->
   <a href="https://www.instagram.com/victor.maitan/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/victor.maitan/"/></a>
   <!-- Linkedin -->
@@ -134,9 +136,6 @@ Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGR
   <!-- Facebook -->
   <a href="https://www.facebook.com/victormaitan" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/victormaitan"/></a>
-  <!-- Picpay -->
-  <a href="https://picpay.me/victormaitan">
-  <img src="https://img.shields.io/badge/PICPAY-25D366?style=for-the-badge&logo=picpay&logoColor=white&link=https://picpay.me/victormaitan"/></a>
   <!-- Twitch -->
    <a href="https://www.twitch.tv/maitandev">
   <img src="https://img.shields.io/badge/Twitch-772ce8?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/maitandev"/></a>
