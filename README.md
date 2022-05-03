@@ -136,15 +136,12 @@ Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGR
   <!-- Facebook -->
   <a href="https://www.facebook.com/victormaitan" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/victormaitan"/></a>
-  <!-- Twitch -->
-   <a href="https://www.twitch.tv/maitandev">
-  <img src="https://img.shields.io/badge/Twitch-772ce8?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/maitandev"/></a>
+  <!-- Twitter -->
+   <a href="https://twitter.com/victormmaitan">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/victormmaitan"/></a>
   <!-- Github -->
   <a href="https://github.com/victormaitan">
   <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/victormaitan"/></a>
-  <!-- Discord -->
-  <a href="https://discord.gg/Sma9zgh2ET">
-  <img src="https://img.shields.io/badge/Comunidade_Help_Dev!-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/Sma9zgh2ET"/></a>
   <!-- Youtube -->
   <a href="https://www.youtube.com/channel/UClOrDr09cPJEhml_F-85UDA">
   <img src="https://img.shields.io/badge/Help_Dev!-Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UClOrDr09cPJEhml_F-85UDA"/></a>
