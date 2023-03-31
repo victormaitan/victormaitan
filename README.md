@@ -11,16 +11,11 @@ Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGR
 
 ### 🖥️ 👉🏻 [MEU SITE/MY SITE](https://www.victormaitan.com.br) 👈🏻
 
+<br/><br/>
+
 <a href="http://www.github.com/victormaitan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=victormaitan&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
-
-<p align="left">
-<!-- Status perfil -->
-  <img src="https://github-readme-stats.vercel.app/api?username=victormaitan&theme=blue-green"/>
-<!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormaitan&theme=blue-green"/>
-</p>
 
 ### 👨‍🏭 Minhas Habilidades/My skills
 
@@ -130,7 +125,7 @@ Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGR
 ### 📫 Como entrar em contato comigo/How to contact me
 <p align="center">
   <!--Meu Site-->
-  <a href="https://victormaitan.vercel.app"><img src="https://img.shields.io/badge/-Meu site-242424?style=for-the-badge&logo=Vercel&logoColor=04bbcc" /></a>
+  <a href="https://victormaitan.com.br"><img src="https://img.shields.io/badge/-Meu site-242424?style=for-the-badge&logo=Vercel&logoColor=04bbcc" /></a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/victor.maitan/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/victor.maitan/"/></a>
