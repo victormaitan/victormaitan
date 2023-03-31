@@ -11,6 +11,10 @@ Hi, I'm Victor Maitan, Dev Front-End. Bachelor in Software Engineering, by UNIGR
 
 ### 🖥️ 👉🏻 [MEU SITE/MY SITE](https://www.victormaitan.com.br) 👈🏻
 
+<a href="http://www.github.com/victormaitan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=victormaitan&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+
 <p align="left">
 <!-- Status perfil -->
   <img src="https://github-readme-stats.vercel.app/api?username=victormaitan&theme=blue-green"/>
