@@ -62,21 +62,19 @@ Obs: A maior parte dos meu projetos são privados. Caso queira conhecer mais, va
   <img src="https://img.shields.io/badge/Arduino-ffffff?style=for-the-badge&logo=arduino&logoColor=008184"/>
   <!-- React Native -->
   <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=008184"/>
+  <!-- TypeScript -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </p> 
 
 ###  👨‍💻  Tenho conhecimento/I have knowledge
 
 <p align="center">
-  <!-- React -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <!-- React Native -->
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <!-- Styled Components -->
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <!-- Redux -->
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <!-- React Router -->
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <!-- Ubuntu -->
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <!-- Kotlin -->
@@ -89,8 +87,6 @@ Obs: A maior parte dos meu projetos são privados. Caso queira conhecer mais, va
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <!-- Node -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <!-- TypeScript -->
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <!-- C -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <!-- C++ -->
@@ -129,7 +125,7 @@ Obs: A maior parte dos meu projetos são privados. Caso queira conhecer mais, va
 ### 📫 Como entrar em contato comigo/How to contact me
 <p align="center">
   <!--Meu Site-->
-  <a href="https://victormaitan.com.br"><img src="https://img.shields.io/badge/-Meu site-242424?style=for-the-badge&logo=Vercel&logoColor=04bbcc" /></a>
+  <a href="https://victormaitan.vercel.app"><img src="https://img.shields.io/badge/-Meu site-242424?style=for-the-badge&logo=Vercel&logoColor=04bbcc" /></a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/victor.maitan/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/victor.maitan/"/></a>
@@ -139,8 +135,6 @@ Obs: A maior parte dos meu projetos são privados. Caso queira conhecer mais, va
   <!-- Facebook -->
   <a href="https://www.facebook.com/victormaitan" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/victormaitan"/></a>
-  <!-- Twitter -->
-   <a href="https://twitter.com/victormmaitan">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/victormmaitan"/></a>
   <!-- Github -->
   <a href="https://github.com/victormaitan">
