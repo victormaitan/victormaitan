@@ -60,7 +60,6 @@ Obs: A maior parte dos meu projetos são privados. Caso queira conhecer mais, va
   <img src="https://img.shields.io/badge/Quasar Framework-ffffff?style=for-the-badge&logo=quasar&logoColor=1976d2"/>
   <!-- Arduino -->
   <img src="https://img.shields.io/badge/Arduino-ffffff?style=for-the-badge&logo=arduino&logoColor=008184"/>
-  </p> 
   <!-- React Native -->
   <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=008184"/>
   </p> 
