@@ -14,10 +14,6 @@ Obs: A maior parte dos meu projetos são privados. Caso queira conhecer mais, va
 
 <br/>
 
-<a href="http://www.github.com/victormaitan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=victormaitan&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
 ### 👨‍🏭 Minhas Habilidades/My skills
 
 <div align="center">
