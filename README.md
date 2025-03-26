@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F73900&width=435&lines=Ol%C3%A1+%F0%9F%91%8B;Me+chamo+Victor+Maitan+%F0%9F%A4%9D)](https://git.io/typing-svg)
-
-# Victor Maitan - Software Engineer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F73900&width=435&lines=Ol%C3%A1+%F0%9F%91%8B;Me+chamo+Victor+Maitan+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=victormaitan)
 
@@ -23,7 +21,8 @@ Obs: A maior parte dos meu projetos são privados. Caso queira conhecer mais, va
 ### 👨‍🏭 Minhas Habilidades/My skills
 
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,apple,arduino,c,cpp,dart,debian,docker,electron,express,figma,firebase,flutter,git,github,linux,lua,md,mongodb,nodejs,notion,npm,nuxtjs,opencv,pinia,pnpm,postgres,py,raspberrypi,react,sass,supabase,ts,ubuntu,vercel,vite,vue,vuetify,yarn)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,apple,arduino,c,cpp,dart,debian,docker,electron,express,figma,firebase,flutter,git,github,linux,lua,md,mongodb,nodejs,notion,npm,nuxtjs,opencv,pinia,pnpm,postgres,py,raspberrypi,react,sass,supabase,ts,ubuntu,vercel,vite,vue,vuetify,yarn" />
+  <img src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" width="48" heigth="48" />
    <!-- HTML5 -->
   <img src="https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
   <!-- CSS3 -->
