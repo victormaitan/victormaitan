@@ -21,9 +21,9 @@ Obs: A maior parte dos meu projetos são privados. Caso queira conhecer mais, va
 ### 👨‍🏭 Minhas Habilidades/My skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" width="48" heigth="48" />
   <img src="https://skillicons.dev/icons?i=html,css,androidstudio,apple,arduino,c,cpp,dart,debian,docker,electron,express,figma,firebase,flutter,git,github,linux,lua,md,mongodb,nodejs,notion,npm,nuxtjs,opencv,pinia,pnpm,postgres,py,raspberrypi,react,sass,supabase,ts,ubuntu,vercel,vite,vue,vuetify,yarn" />
+  <img src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" width="48" heigth="48" />
+  <img src="https://skillicons.dev/icons?i=js" />
     
 </div> 
 
